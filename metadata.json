@@ -1,0 +1,6 @@
+{
+  "name": "Edu 11 Lessons",
+  "description": "Curated digital books, practical guides, and structured 11-lesson masterclasses formatted for tablets, e-readers, and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
